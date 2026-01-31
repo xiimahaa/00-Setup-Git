@@ -4,6 +4,6 @@
 # $CHALLENGIFY_BEGIN
 def my_name_is():
  
-    return "xiimahaa"
+    pass
 
 # $CHALLENGIFY_END
