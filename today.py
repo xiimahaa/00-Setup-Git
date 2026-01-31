@@ -6,6 +6,6 @@ def my_name_is():
   return "xiimahaa"
 
 def my_age_is():
-    return 22
+    return 21
 
 # $CHALLENGIFY_END
